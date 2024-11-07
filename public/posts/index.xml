@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Tom&#39;s Blog</title>
-    <link>http://localhost:37815/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Tom&#39;s Blog</description>
     <generator>Hugo -- 0.137.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 May 2023 21:19:45 -0400</lastBuildDate>
-    <atom:link href="http://localhost:37815/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:37815/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Mon, 29 May 2023 21:19:45 -0400</pubDate>
-      <guid>http://localhost:37815/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
 &lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Second Post</title>
-      <link>http://localhost:37815/posts/my-second-post/</link>
+      <link>http://localhost:1313/posts/my-second-post/</link>
       <pubDate>Mon, 29 May 2023 21:19:45 -0400</pubDate>
-      <guid>http://localhost:37815/posts/my-second-post/</guid>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
 &lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
 &lt;p&gt;This is my second post&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Logidock&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:37815/images/logitech.webp&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;Logidock&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/logitech.webp&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Third Post</title>
-      <link>http://localhost:37815/posts/my-third-post/</link>
+      <link>http://localhost:1313/posts/my-third-post/</link>
       <pubDate>Mon, 29 May 2023 21:19:45 -0400</pubDate>
-      <guid>http://localhost:37815/posts/my-third-post/</guid>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
 &lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
