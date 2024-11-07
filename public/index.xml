@@ -15,7 +15,7 @@
       <guid>http://localhost:1313/posts/null-my-first-postttt/</guid>
       <description>&lt;h2 id=&#34;introductionssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaa&#34;&gt;Introductionssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;/h2&gt;
 &lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.ttt&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!@@@&lt;/p&gt;</description>
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!@@@EEEEEEEEEEEEEEEEEEEEEEe&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Fourth Post</title>
@@ -40,6 +40,16 @@
     </item>
     <item>
       <title>My Third Post</title>
+      <link>http://localhost:1313/posts/2024-11-07-new123/</link>
+      <pubDate>Mon, 29 May 2023 21:19:45 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2024-11-07-new123/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+&lt;p&gt;This is my third post&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Third Post</title>
       <link>http://localhost:1313/posts/my-third-post/</link>
       <pubDate>Mon, 29 May 2023 21:19:45 -0400</pubDate>
       <guid>http://localhost:1313/posts/my-third-post/</guid>
@@ -61,6 +71,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/login/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>new</title>
+      <link>http://localhost:1313/posts/2024-11-07-new/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-11-07-new/</guid>
+      <description>&lt;h2 id=&#34;introductionccccccccccccccccc&#34;&gt;Introductionccccccccccccccccc&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+&lt;p&gt;This is my third post&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
