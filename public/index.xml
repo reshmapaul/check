@@ -10,12 +10,22 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/null-my-first-postttt/</link>
       <pubDate>Mon, 29 May 2023 21:19:45 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+      <guid>http://localhost:1313/posts/null-my-first-postttt/</guid>
+      <description>&lt;h2 id=&#34;introductionssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaa&#34;&gt;Introductionssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.ttt&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!@@@&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Fourth Post</title>
+      <link>http://localhost:1313/posts/2024-11-07-my%20fourth%20post/</link>
+      <pubDate>Mon, 29 May 2023 21:19:45 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2024-11-07-my%20fourth%20post/</guid>
+      <description>&lt;h2 id=&#34;introduction22222222222222222222222222222222222222222&#34;&gt;Introduction22222222222222222222222222222222222222222&lt;/h2&gt;
 &lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+&lt;p&gt;This is my third post&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Second Post</title>
